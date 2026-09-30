@@ -1,0 +1,6 @@
+{
+  "name": "Snowball Invest - Дивидендный трекер и финансы",
+  "description": "Отслеживание дивидендного портфеля, аналитика доходности, учет сделок покупки и продажи, импорт брокерских отчетов и контроль доходов и расходов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
